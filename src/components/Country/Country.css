@@ -3,3 +3,7 @@
     background-color: antiquewhite;
     margin: 3px;
 }
+
+.countryStyle img {
+    width: 150px;
+}
